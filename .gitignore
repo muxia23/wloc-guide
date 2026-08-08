@@ -3,3 +3,4 @@ unsigned/
 *.shortcut
 __pycache__/
 .DS_Store
+places.json
